@@ -73,4 +73,6 @@ work/
 /cpp/DataStruct/build/
 /cpp/DataStruct/dist/
 /IntFrontEnd/nbproject/private/
-/cs/MainTestings/.vs/
+/cs/MainTesting/.vs/
+/cs/MainTesting/obj/
+/cs/MainTesting/bin/
