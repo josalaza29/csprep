@@ -16,15 +16,15 @@ public class DataStruct {
      */
     public static void main(String[] args) {
 
-//        JStackStatic stack = new JStackStatic(7);
-//        stack.push(15);
-//        stack.print();
-//        stack.push(6);
-//        stack.push(2);
-//        stack.push(9);
-//        stack.print();
-//        stack.pop();
-//        stack.print();
+       JStackStatic stack = new JStackStatic(7);
+       stack.push(15);
+       stack.print();
+       stack.push(6);
+       stack.push(2);
+       stack.push(9);
+       stack.print();
+       stack.pop();
+       stack.print();
 //        JQueueGeneric que = new JQueueStatic(7);
 //        que.in(15);
 //        que.in(6);
